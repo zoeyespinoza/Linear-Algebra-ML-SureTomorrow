@@ -1,7 +1,7 @@
 # Linear-Algebra-SureTomorrow
 ## Project Description
 
-The Sure Tomorrow insurance company is exploring the potential of leveraging machine learning to address several crucial tasks and enhance its operations. As an evaluator, your role is to assess the feasibility and effectiveness of implementing machine learning solutions for the following tasks:
+The Sure Tomorrow insurance company is exploring the potential of leveraging machine learning to address several crucial tasks and enhance its operations. As an evaluator, assess the feasibility and effectiveness of implementing machine learning solutions for the following tasks:
 
 **Task 1:** Customer Segmentation for Targeted Marketing
 
